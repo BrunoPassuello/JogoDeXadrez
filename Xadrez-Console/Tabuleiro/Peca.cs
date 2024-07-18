@@ -43,11 +43,11 @@ namespace tabuleiro
         }
         public abstract bool[,] MovimentosPossiveis();
 
-        /*
+        
         public void IncrementarQtdMovimentos()
         {
             QteMovimentos++;
         }
-        */
+        
     }
 }
